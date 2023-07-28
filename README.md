@@ -23,7 +23,7 @@ df = pd.read_csv('asusrog.csv')
 print(df)
 ```
 ## OUTPUT:
-![output](out.png)
+![output](out1.png)
 ## RESULT:
 Thus the program to read a CSV file is written and verified using python programming.
 
